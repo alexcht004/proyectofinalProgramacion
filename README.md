@@ -1,4 +1,4 @@
-# proyectofinalProgramacion
+# ProyectofinalProgramacion
 
 ## Esta parte lo q ue hace es importar los controladores , modelos y  vista.
 
