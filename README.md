@@ -1,4 +1,6 @@
 # proyectofinalProgramacion
+
+
 public class menu extends javax.swing.JFrame {
 
     /**
@@ -13,6 +15,10 @@ public class menu extends javax.swing.JFrame {
 
     @SuppressWarnings("unchecked")
     // ASOCIA LOS BOTONES Y LAS ACCIONES ASOCIADAS A LOS BOTONES
+    
+    
+    
+    
     private void initComponents() {
     // CREA LOS BOTONES
         btnClientes = new javax.swing.JButton();
