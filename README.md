@@ -3,7 +3,7 @@
 # CONTROLADOR
 
 
-En esta parte lo que ponemos son las condiciones y enviando si las ordenes del usuario esta bien redadtadas.
+En esta parte lo que ponemos son las condiciones y enviando si las ordenes del usuario esta bien redactadas.
 
             cli.setRfc(frmc.txtRfc.getText());
              boolean bandera=false;
