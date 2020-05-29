@@ -30,7 +30,12 @@ public class menu extends javax.swing.JFrame {
 
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-// ESTABLECE LAS ACCIONES DE LOS BOTONES
+        
+        
+        
+## ESTABLECE LAS ACCIONES DE LOS BOTONES
+
+
         btnClientes.setText("Clientes");
         btnClientes.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -39,7 +44,7 @@ public class menu extends javax.swing.JFrame {
         });
 
 
-En esta parte diseñamos los botones de nuestra aplicación tanto su pocion vertical y horizontal.
+## En esta parte diseñamos los botones de nuestra aplicación tanto su pocion vertical y horizontal.
 
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -75,7 +80,7 @@ En esta parte diseñamos los botones de nuestra aplicación tanto su pocion vert
     }
 
 
-En esta parte declaclaramos los botones 
+## En esta parte declaclaramos los botones 
 
 
     // Declarar las variables  no se debe modificar
