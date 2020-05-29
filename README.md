@@ -1,6 +1,8 @@
 # proyectofinalProgramacion
 
-En esta parte loq ue hace es importar los controladores , modelos y  vista del peronal cualificado.
+## Esta parte lo q ue hace es importar los controladores , modelos y  vista.
+
+
 
 import Controlador.CtrlProducto;
 import Controlador.CtrlCliente;
